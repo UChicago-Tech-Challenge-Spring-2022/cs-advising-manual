@@ -6,3 +6,5 @@ Inspired by [UCHICAGO ECON WIKI](https://www.reddit.com/r/uchicago/wiki/econ), t
 
 If you want to be a collaborator and improve the manual, simply **submit a pull request** to this repo or **send your revision to Todd Tan(tanjihui@uchicago.edu)**.
 
+
+This is part of the 2022 UChicago Tech Community Challenge project led by Todd Tan, Yilan Liu, Patricia Zhou, Mike Wu, and Yuanyi Zhang.
